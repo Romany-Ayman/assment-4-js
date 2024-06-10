@@ -1,0 +1,31 @@
+body {
+    background-color: #24353f;
+    min-height: 100vh;
+  }
+  .windo {
+    width: 70%;
+    padding: 30px;
+    position: absolute;
+    top: 50px;
+    background-color: rgb(36, 53, 63);
+  }
+  h1 {
+    color: #17988d;
+  }
+  p {
+    color: #fff;
+  }
+  .form-control {
+    background-color: transparent;
+    color: #fff;
+  }
+  .form-control::placeholder {
+    color: #fff;
+  }
+  a {
+    color: #fff;
+  }
+  .form-control:focus {
+    background-color: transparent;
+  }
+  

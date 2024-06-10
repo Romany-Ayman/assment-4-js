@@ -1,0 +1,13 @@
+body {
+    background-color: #24353f;
+    min-height: 100vh;
+  }
+  .windo {
+    width: 70%;
+    margin: auto;
+    background-color: rgb(36, 53, 63);
+  }
+.text{
+    color: #fff;
+    font-size: 30px;
+}
